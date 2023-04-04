@@ -1,4 +1,4 @@
 #!/usr/bin/python3
 
-obj = "Hello, world!"  # replace with the object you want to check
+obj = "Hello, world!"
 print(type(obj))
